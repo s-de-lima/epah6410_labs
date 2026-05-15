@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.html
+*.pdf
+/data/raw/         # if data is large or non-redistributable
+/renv/library/     # if using renv
